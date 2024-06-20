@@ -1,3 +1,15 @@
 redis
 mysql:8.4.0
 clickhouse/clickhouse-server:24.4.3.25
+
+lfedge/ekuiper:v1.14.0
+
+elasticsearch:7.17.22
+elasticsearch:8.14.1
+elasticsearch:6.5.0
+
+emqx:5.7.0
+emqx:5.6
+
+gitlab/gitlab-ce:latest
+gitlab/gitlab-ce:16.11.4-ce.0
