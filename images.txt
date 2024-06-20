@@ -2,7 +2,7 @@ redis
 mysql:8.4.0
 clickhouse/clickhouse-server:24.4.3.25
 
-lfedge/ekuiper:v1.14.0
+lfedge/ekuiper:1.13.2
 
 elasticsearch:7.17.22
 elasticsearch:8.14.1
