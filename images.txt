@@ -1,6 +1,6 @@
 #redis
 #mysql:8.4.0
-mysql:8.0.19
+#mysql:8.0.19
 #clickhouse/clickhouse-server:24.4.3.25
 
 #lfedge/ekuiper:1.13.2
@@ -19,3 +19,6 @@ mysql:8.0.19
 #influxdb:1.8.10
 
 #apache/iotdb:1.3.1-standalone
+
+# 安装harbor 需要的镜像 
+goharbor/prepare:v2.11.0
