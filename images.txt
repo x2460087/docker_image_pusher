@@ -27,4 +27,8 @@
 #apache/iotdb:1.3.0-standalone
 
 #linux 命令行
-wcjiang/linux-command:latest
+#wcjiang/linux-command:latest
+
+elasticsearch:7.8.0
+apache/skywalking-oap-server:8.0.1-es7
+apache/skywalking-ui:8.0.1
