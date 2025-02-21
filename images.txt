@@ -29,6 +29,7 @@
 #linux 命令行
 #wcjiang/linux-command:latest
 
-elasticsearch:7.8.0
-apache/skywalking-oap-server:8.0.1-es7
-apache/skywalking-ui:8.0.1
+#elasticsearch:7.8.0
+#apache/skywalking-oap-server:8.0.1-es7
+#apache/skywalking-ui:8.0.1
+vault:1.13.3
