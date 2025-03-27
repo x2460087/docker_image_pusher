@@ -32,4 +32,6 @@
 #elasticsearch:7.8.0
 #apache/skywalking-oap-server:8.0.1-es7
 #apache/skywalking-ui:8.0.1
-vault:1.13.3
+#vault:1.13.3
+
+lfedge/ekuiper:2.1.0
