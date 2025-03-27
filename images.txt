@@ -34,4 +34,6 @@
 #apache/skywalking-ui:8.0.1
 #vault:1.13.3
 
-lfedge/ekuiper:2.1.0
+#lfedge/ekuiper:2.1.0
+
+emqx/ekuiper-manager:1.8
