@@ -29,6 +29,11 @@
 #linux 命令行
 #wcjiang/linux-command:latest
 
+#Elk 镜像
+docker.elastic.co/elasticsearch/elasticsearch:8.5.0
+docker.elastic.co/logstash/logstash:8.5.0
+docker.elastic.co/kibana/kibana:8.5.0
+
 #elasticsearch:7.8.0
 #apache/skywalking-oap-server:8.0.1-es7
 #apache/skywalking-ui:8.0.1
