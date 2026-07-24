@@ -39,6 +39,9 @@ docker.elastic.co/kibana/kibana:8.5.0
 #apache/skywalking-ui:8.0.1
 #vault:1.13.3
 
+#kafka官方镜像
+apache/kafka:4.3.1
+
 #边缘计算 eKuiper
 #lfedge/ekuiper:2.1.0
 #emqx/ekuiper-manager:1.8
