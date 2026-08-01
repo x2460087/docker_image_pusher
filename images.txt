@@ -1,6 +1,6 @@
 #redis
-#mysql:8.4.0
-#mysql:8.0.19
+mysql:8.4.0
+mysql:8.0.19
 #clickhouse/clickhouse-server:24.4.3.25
 
 #lfedge/ekuiper:1.13.2
