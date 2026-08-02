@@ -1,6 +1,11 @@
 #redis
-mysql:8.4.0
-mysql:8.0.19
+#redis
+
+#mysql
+#mysql:8.4.0
+#mysql:8.0.19
+
+#clickhouse
 #clickhouse/clickhouse-server:24.4.3.25
 
 #lfedge/ekuiper:1.13.2
@@ -45,3 +50,6 @@ apache/kafka:4.3.1
 #边缘计算 eKuiper
 #lfedge/ekuiper:2.1.0
 #emqx/ekuiper-manager:1.8
+
+#minio镜像
+bitnamicharts/minio:17.0.16
