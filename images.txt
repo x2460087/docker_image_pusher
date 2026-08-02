@@ -45,11 +45,11 @@
 #vault:1.13.3
 
 #kafka官方镜像
-apache/kafka:4.3.1
+#apache/kafka:4.3.1
 
 #边缘计算 eKuiper
 #lfedge/ekuiper:2.1.0
 #emqx/ekuiper-manager:1.8
 
 #minio镜像
-bitnamicharts/minio:17.0.16
+minio/minio:RELEASE.2025-09-07T16-13-09Z
