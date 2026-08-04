@@ -40,11 +40,6 @@ apache/iotdb:2.0.10-standalone
 #安装linux 命令行
 #wcjiang/linux-command:latest
 
-#Elk 镜像
-#docker.elastic.co/elasticsearch/elasticsearch:8.5.0
-#docker.elastic.co/logstash/logstash:8.5.0
-#docker.elastic.co/kibana/kibana:8.5.0
-
 #安装elasticsearch:7.8.0
 #apache/skywalking-oap-server:8.0.1-es7
 #apache/skywalking-ui:8.0.1
@@ -68,5 +63,21 @@ apache/iotdb:2.0.10-standalone
 nacos/nacos-server:v3.2.3
 nacos/nacos-server:v2.5.3
 
-#rabbitmq
+#安装rabbitMQ
 rabbitmq:4.3.4-management
+
+#安装rocketMQ
+apache/rocketmq:5.5.0
+
+#安装elasticsearch搜索引擎
+elasticsearch:9.4.4
+elasticsearch:8.19.19
+
+#Elk 镜像
+docker.elastic.co/elasticsearch/elasticsearch:8.5.0
+docker.elastic.co/logstash/logstash:8.5.0
+docker.elastic.co/kibana/kibana:8.5.0
+
+#Solr搜索引擎
+solr:9.9.0-slim
+solr:9.9.0
