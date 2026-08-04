@@ -1,29 +1,33 @@
-#redis
-redis:8.10.0
-redis:7.4.10
+#安装redis
+#redis:8.10.0
+#redis:7.4.10
 
-#mysql
+#安装mysql
 #mysql:8.4.0
 #mysql:8.0.19
 
-#clickhouse
+#安装clickhouse
 #clickhouse/clickhouse-server:24.4.3.25
 
 #lfedge/ekuiper:1.13.2
 
+#安装Elasticsearch
 #elasticsearch:7.17.22
 #elasticsearch:8.14.1
 #elasticsearch:6.5.0
 
+#安装emqx
 #emqx:5.7.0
 #emqx:5.6
 
-#gitlab/gitlab-ce:latest
+#安装gitlab/gitlab-ce:latest
 #gitlab/gitlab-ce:16.11.4-ce.0
 
+#安装influxdb
 #influxdb:2.7.6
 #influxdb:1.8.10
 
+#安装iotdb
 #apache/iotdb:1.3.1-standalone
 apache/iotdb:2.0.10-standalone
 
@@ -33,7 +37,7 @@ apache/iotdb:2.0.10-standalone
 #安装iotdb 
 #apache/iotdb:1.3.0-standalone
 
-#linux 命令行
+#安装linux 命令行
 #wcjiang/linux-command:latest
 
 #Elk 镜像
@@ -41,7 +45,7 @@ apache/iotdb:2.0.10-standalone
 #docker.elastic.co/logstash/logstash:8.5.0
 #docker.elastic.co/kibana/kibana:8.5.0
 
-#elasticsearch:7.8.0
+#安装elasticsearch:7.8.0
 #apache/skywalking-oap-server:8.0.1-es7
 #apache/skywalking-ui:8.0.1
 #vault:1.13.3
@@ -53,9 +57,16 @@ apache/iotdb:2.0.10-standalone
 #lfedge/ekuiper:2.1.0
 #emqx/ekuiper-manager:1.8
 
-#minio镜像
+#安装minio镜像
 #minio/minio:RELEASE.2025-09-07T16-13-09Z
 
-#xxl-job
-xuxueli/xxl-job-admin:3.4.2
-xuxueli/xxl-job-admin:2.5.0
+#安装xxl-job
+#xuxueli/xxl-job-admin:3.4.2
+#xuxueli/xxl-job-admin:2.5.0
+
+#安装nacos
+nacos/nacos-server:v3.2.3
+nacos/nacos-server:v2.5.3
+
+#rabbitmq
+rabbitmq:4.3.4-management
