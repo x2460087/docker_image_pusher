@@ -5,6 +5,7 @@
 #安装mysql
 #mysql:8.4.0
 #mysql:8.0.19
+mysql:8.0.12
 
 #安装clickhouse
 #clickhouse/clickhouse-server:24.4.3.25
@@ -29,7 +30,7 @@
 
 #安装iotdb
 #apache/iotdb:1.3.1-standalone
-apache/iotdb:2.0.10-standalone
+#apache/iotdb:2.0.10-standalone
 
 #安装harbor 需要的镜像 
 #goharbor/prepare:v2.11.0
@@ -64,20 +65,24 @@ nacos/nacos-server:v3.2.3
 nacos/nacos-server:v2.5.3
 
 #安装rabbitMQ
-rabbitmq:4.3.4-management
+#rabbitmq:4.3.4-management
 
 #安装rocketMQ
-apache/rocketmq:5.5.0
+#apache/rocketmq:5.5.0
 
 #安装elasticsearch搜索引擎
-elasticsearch:9.4.4
-elasticsearch:8.19.19
+#elasticsearch:9.4.4
+#elasticsearch:8.19.19
 
 #Elk 镜像
-docker.elastic.co/elasticsearch/elasticsearch:8.5.0
-docker.elastic.co/logstash/logstash:8.5.0
-docker.elastic.co/kibana/kibana:8.5.0
+#docker.elastic.co/elasticsearch/elasticsearch:8.5.0
+#docker.elastic.co/logstash/logstash:8.5.0
+#docker.elastic.co/kibana/kibana:8.5.0
 
 #Solr搜索引擎
-solr:9.9.0-slim
-solr:9.9.0
+#solr:9.9.0-slim
+#solr:9.9.0
+
+#mongoDB
+mongo:7.0
+mongo-express:latest
