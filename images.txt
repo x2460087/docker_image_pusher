@@ -83,10 +83,6 @@
 #solr:9.9.0-slim
 #solr:9.9.0
  
-confluentinc/cp-zookeeper:7.6.0
-xuxueli/xxl-job-admin:2.4.1
-bladex/sentinel-dashboard:1.8.7
-seataio/seata-server:2.0.0
 apacherocketmq/rocketmq-dashboard:latest
 apache/rocketmq:5.1.4
 
