@@ -82,7 +82,8 @@
 #Solr搜索引擎
 #solr:9.9.0-slim
 #solr:9.9.0
- 
+
+#seataio
 seataio/seata-server:2.0.0
 
 #mongoDB
