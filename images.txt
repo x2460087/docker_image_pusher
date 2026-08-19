@@ -84,7 +84,6 @@
 #solr:9.9.0
  
 apacherocketmq/rocketmq-dashboard:latest
-apache/rocketmq:5.1.4
 
 #mongoDB
 #mongo:7.0
